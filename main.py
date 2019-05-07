@@ -15,7 +15,7 @@ sentence = fullName + " watch this sentence flash in green which is excellent wa
 #Print Statements in the Terminal
 
 #Success Message
-cprint(sentence, c='gF)
+cprint(sentence, c='gF')
 
 #Custom Message
 btext.custom("This is a custom alert message", "You have reached the end of the program. Thanks!")
