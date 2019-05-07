@@ -1,8 +1,8 @@
 # week1-join-the-maryville-swdv-660-su1-2019-2w-org-omarquraishi95
 
 #Packages/Dependencies
-1) cprint dependency to show messages that is shown as a green flashing message.  
-2) blooding terminal for custom messages being displayed.
+1) C-Print dependency to show messages that is shown as a green flashing message in the terminal.  
+2) Bloody terminal for custom debugging messages being displayed in the terminal .
 
 #Expected Result
 You should see the program running successfully to basically display your full name in green and should be flashing
